@@ -10,6 +10,10 @@
 
 # define min(x, y) ((x) < (y) ? (x) : (y))
 
+void Init_levenshtein () {
+  // Empty method body
+}
+
 unsigned int levenshtein (const char *word1, const char *word2) {
     size_t len1 = strlen(word1),
            len2 = strlen(word2);
