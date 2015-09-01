@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "CHANGELOG.markdown",
     "Gemfile",
     "README.markdown",
+    "LICENSE",
     "Rakefile",
     "VERSION",
     "ext/levenshtein/.gitignore",
